@@ -1,6 +1,47 @@
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="promo-ch-1" tvg-name="DailyFlim.online" tvg-logo="https://dailyflim.online/genfavicon-512.png" tvg-language="Bangla" tvg-country="BD" group-title="Toffee Server",DailyFlim.online
+https://tv.dailyflim.online/speed.m3u
+
+#====== Toffee World Cup ============
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee Server",Toffee 1
+http://sm-monirul.top/tof/live/toffee1/index.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee Server",Toffee 2
+http://sm-monirul.top/tof/live/toffee2/index.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee Server",Toffee 3
+http://sm-monirul.top/tof/live/toffee3/index.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee Server",Toffee 4
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee Server",Toffee 5
+https://sm-monirul.top/tof/live/toffee5/index.m3u8
+#EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="Toffee Server",Toffee 6
+https://sm-monirul.top/tof/live/toffee6/index.m3u8
+#EXTINF:-1 tvg-id="sports_highlights" tvg-name="TOFFEE Sports VIP" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee Server",TOFFEE Sports VIP
+https://sm-monirul.top/toffee/play/sports_highlights.m3u8
+#EXTINF:-1 tvg-id="toffee_movie" tvg-name="TOFFEE Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee Server",TOFFEE Movies VIP
+https://sm-monirul.top/toffee/play/toffee_movie.m3u8
+#EXTINF:-1 tvg-id="toffee_drama" tvg-name="TOFFEE Dramas VIP" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee Server",TOFFEE Dramas VIP
+https://sm-monirul.top/toffee/play/toffee_drama.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN VIP" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" group-title="Toffee Server",CNN VIP
+https://sm-monirul.top/toffee/play/cnn.m3u8
+#EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee Server",Somoy TV
+https://sm-monirul.top/toffee/play/somoy_tv.m3u8
+#EXTINF:-1 tvg-id="promo-ch" tvg-name="DailyFlim.online" tvg-logo="https://dailyflim.online/genfavicon-512.png" tvg-language="Bangla" tvg-country="BD",DailyFlim.online
+http://dailyflim.online/ads/ads.mp4
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="69473" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj",JAMUNA TV
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9kk5P56yCUOQCm6qSfQF8tGnaSxYJMhKz1iy0j2cMSAk
+#EXTINF:-1 xui-id="18816" tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj",JAMUNA TV HD
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9nnkjISIEYWZ8_4yHbuHLfy4d9wLHUvXf0AsmMw3gKTd
+#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://i.postimg.cc/bwbQjGnJ/Somoy-TV.jpg",SOMOY TV HD
+http://starter.nvisionbd.net:80/play/2POvUifiBA1uXLNQDdQx9urHvjM6SqAssQutuATcclY
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/53aSeDH.png",🇧🇩 - TOFFEE 1ᶠᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
 https://kazimmt.ami.bd/playlist/TF/TF-1.m3u8
